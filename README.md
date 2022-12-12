@@ -1,5 +1,5 @@
 - 👋 Hi, I am Sourav, PhD in Water Resources Engineering, 2017-2021
-- 👀 I’m interested in Data Science, Climate Tech., and Blogging
+- 👀 I’m interested in Data Science| Climate Tech.| Blogging
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on Data Science Projects in any domain
 - 📫 You can reach me at souravm@g.clemosn.edu
