@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @souravgithubpage, PhD in Water Resources Engineering
+- 👋 Hi, Sourav, PhD in Water Resources Engineering
 - 👀 I’m interested in Data Science, Climate Tech., and Blogging
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on Data Science Projects in any domain
