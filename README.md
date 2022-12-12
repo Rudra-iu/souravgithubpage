@@ -1,4 +1,4 @@
-- 👋 Hi, I am Sourav, PhD in Water Resources Engineering
+- 👋 Hi, I am Sourav, PhD in Water Resources Engineering, 2017-2021
 - 👀 I’m interested in Data Science, Climate Tech., and Blogging
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on Data Science Projects in any domain
